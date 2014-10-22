@@ -1,0 +1,14 @@
+Version 0.4
+
+- configuration as CMake project
+- icon size configurable in config file
+- buttons hidable by commenting out entry in config file
+- default shutdown commands changed from sudo to dbus calls
+- manpage added
+
+Version 0.3
+
+- initial release as extended fork of exitx
+- icons changed from .h style to configurable external icons
+- icons recreated basing on Faenza grey theme
+- config file in /etc for configuration of commands and icons

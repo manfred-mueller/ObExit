@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-21 16:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: obexit.c:461
+msgid "<b><big>Leave System (Logged in: "
+msgstr ""
+
+#: obexit.c:492
+msgid "Lock"
+msgstr ""
+
+#: obexit.c:514
+msgid "Logout"
+msgstr ""
+
+#: obexit.c:536
+msgid "Reboot"
+msgstr ""
+
+#: obexit.c:559
+msgid "Standby"
+msgstr ""
+
+#: obexit.c:582
+msgid "Hibernate"
+msgstr ""
+
+#: obexit.c:604
+msgid "Poweroff"
+msgstr ""
+
+#: obexit.c:626
+msgid "Cancel"
+msgstr ""

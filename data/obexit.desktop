@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ObExit
+Comment=
+Exec=obexit
+Icon=/usr/share/pixmaps/obexit/logout.png
+Terminal=false
+Type=Application
+Categories=System;

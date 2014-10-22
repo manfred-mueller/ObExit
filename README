@@ -1,0 +1,7 @@
+ObExit configuration takes place in /etc/obexit.conf.                                                   
+
+You can change the size of the button images in the [GENERAL] section
+and chnge the images in the corresponding entries in the [IMAGES] section.
+
+To hide a button simply put a # in front of the corresponding
+entry in the [COMMANDS] section].

@@ -1,0 +1,4 @@
+- code cleanup
+- separate to .c/.h files
+- make fadecolor and border configurable, too
+- include .desktop files in gettext translations
